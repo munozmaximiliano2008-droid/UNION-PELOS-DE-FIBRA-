@@ -64,7 +64,9 @@ introducir el manguito termocontráctil en uno de los extremos del hilo de fibra
 
 TIP : 
 No tocar la fibra con los dedos, ni que roce con alguna superficie. 
-?[image alt](https://github.com/munozmaximiliano2008-droid/UNION-PELOS-DE-FIBRA-/blob/5f40259e8b6b7030d99a092596238d3a3a33b433/WhatsApp%20Image%202026-11-15%20at%209.47.21%20PM.jpeg)
+
+
+![image alt](https://github.com/munozmaximiliano2008-droid/UNION-PELOS-DE-FIBRA-/blob/5f40259e8b6b7030d99a092596238d3a3a33b433/WhatsApp%20Image%202026-11-15%20at%209.47.21%20PM.jpeg)
 
 
 
