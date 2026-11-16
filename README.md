@@ -2,7 +2,9 @@
 Este repositorio se enfoca principalmente en recopilar información sobre la fibra .
 
 Asignatura : Infraestructura de Redes (TCB304)
+
 Autor : Maximiliano Muñoz.
+
 Objetivo : Instalar redes de fibra óptica siguiendo las recomendaciones de seguridad y una planificación ordenada del proceso : Limpiar, Cortar y Fusionar Fibra.
 
 BREVE INTRODUCCION 
@@ -45,9 +47,32 @@ HERRAMIENTAS
 
 MATERIALES 
 - Contenedor para residuos.
-- fibra optica para la practica.
+- fibra óptica para la practica.
 - Lentes de seguridad.
 
+SEGURIDAD Y MANEJO DE MATERIALES 
+1. Riesgos :
+- Fragmentos de vidrios que pueden incrustar en la piel o los ojos.
+- Rotura accidental de la fibra óptica.
+- Contaminación de los extremos.
+- Riesgos a equipos eléctricos y superficies calientes.
+
+2. Medidas preventivas :
+- Usar lentes de seguridad durante todo el procedimiento.
+- No tocar los fragmentos de fibra sin guantes.
+- Mantener el área de trabajo limpia y ordenada.
+- No comer ni hidratarse durante la practica.
+
+PREPARACION DEL AREA DE TRABAJO 
+
+Antes de comenzar el procedimiento de fusión, es necesario preparar el espacio y que todos los materiales se encuentren disponibles y en perfectas condiciones. 
+
+1. Identificar la fibra y los materiales disponibles.
+2. Verificar el estado de las herramientas.
+3. Preparar el espacio en una zona limpia.
+4. Ubicar el contenedor de residuos cerca del área de trabajo.
+
+   
 PROCEDIMIENTO PASO A PASO 
 1. Insertar el protector al plástico.
 
