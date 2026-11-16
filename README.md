@@ -58,6 +58,8 @@ introducir el manguito termocontráctil en uno de los extremos del hilo de fibra
 - Se utiliza la peladora de cables para retirar la cubierta plástica exterior y la capa de la fibra.
 - Se debe exponer aproximadamente 3 cm de fibra.
 
+![image alt](https://github.com/munozmaximiliano2008-droid/UNION-PELOS-DE-FIBRA-/blob/b587db0e2316016d4fb830228687d28444527a21/c.jpeg)
+
 3. Limpieza profunda.
 - Se humedece un paño sin pelusas con alcohol isopropílico.
 - Limpiar la fibra ya pelada para eliminar cualquier residuo de vaselina, polvo, etc. Se escuchara un chillido (que chille), eso indica que la fibra ya esta limpia.
