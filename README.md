@@ -95,6 +95,8 @@ No tocar la fibra con los dedos, ni que roce con alguna superficie.
 - La maquina generara un arco eléctrico de alta temperatura que fundirá y unirá ambas fibras.
 - Se verifica en la pantalla que la perdida estimada sea optima lo ideal es 0.00 dB o muy cerca (0.01 dB).
 
+ ![image alt](https://github.com/munozmaximiliano2008-droid/UNION-PELOS-DE-FIBRA-/blob/22e91444d3dad0a840d359eb91d406f7508d57cb/a.jpeg)
+
 7. Protección del empalme.
 - Abre la maquina con cuidado, se retira la fibra unida y se desliza el manguito termoretractil hasta centrarlo justo encima de la zona que se fusionó la fibra.
 - Se introduce la fibra con el manguito termoretractil en el horno integrado de la fusionadora.
