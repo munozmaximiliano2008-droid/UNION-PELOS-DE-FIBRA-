@@ -87,6 +87,8 @@ No tocar la fibra con los dedos, ni que roce con alguna superficie.
 - Asegurarse de que el extremo de la fibra quede muy cerca de los electrodos, pero sin  tocar el centro ni la otra fibra.
 - Cerrar el soporte magnético para fijarla.
 
+ ![image alt](https://github.com/munozmaximiliano2008-droid/UNION-PELOS-DE-FIBRA-/blob/7713db36133ddefc8f3c3841b4913de983bea295/W.jpeg)
+
 6. Fusion automatica.
 - Se cierra la tapa principal de la maquina fusionadora.
 - La pantalla alineara los dos núcleos de vidrio automáticamente.
