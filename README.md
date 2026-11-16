@@ -100,7 +100,9 @@ No tocar la fibra con los dedos, ni que roce con alguna superficie.
 7. Protección del empalme.
 - Abre la maquina con cuidado, se retira la fibra unida y se desliza el manguito termoretractil hasta centrarlo justo encima de la zona que se fusionó la fibra.
 - Se introduce la fibra con el manguito termoretractil en el horno integrado de la fusionadora.
-- El calor encogerá el tubo plástico, dándole una rigidez y protegiendo el cristal contra roturas y humedad. 
+- El calor encogerá el tubo plástico, dándole una rigidez y protegiendo el cristal contra roturas y humedad.
+
+  ![image alt](https://github.com/munozmaximiliano2008-droid/UNION-PELOS-DE-FIBRA-/blob/be0733fc7727ba3e92c8b67aff9d2901b8334208/b.jpeg)
   
 
 
