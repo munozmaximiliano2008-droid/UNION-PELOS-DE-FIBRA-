@@ -1,7 +1,9 @@
 # UNION-PELOS-DE-FIBRA-
 Este repositorio se enfoca principalmente en recopilar información sobre la fibra .
 
-Maximiliano Muñoz
+Asignatura : Infraestructura de Redes (TCB304)
+Autor : Maximiliano Muñoz.
+Objetivo : Instalar redes de fibra óptica siguiendo las recomendaciones de seguridad y una planificación ordenada del proceso : Limpiar, Cortar y Fusionar Fibra.
 
 BREVE INTRODUCCION 
 
@@ -15,7 +17,19 @@ Es una capa de vidrio que rodea el núcleo y tiene un índice de refracción men
 Es el proceso de cortar la fibra con una herramienta de precisión, para obtener una cara plana y perpendicular. Es necesario antes de fusionar o conectar, ya que un mal corte aumenta las perdidas.
 
 - Atenuacion :
-Es la perdida de potencia de la señal óptica a medida que viaja por la fibra. Se mide en dB/Km y se debe a la absorción, dispersión , curvaturas y conectores. Los valores típicos en monomodo: cerca de 0,35 dB/Km en 1310 nm y 0,2 dB/Km en 1550 nm. 
+Es la perdida de potencia de la señal óptica a medida que viaja por la fibra. Se mide en dB/Km y se debe a la absorción, dispersión , curvaturas y conectores. Los valores típicos en monomodo: cerca de 0,35 dB/Km en 1310 nm y 0,2 dB/Km en 1550 nm.
+
+- Empale por fusión :
+El empale por fusión es la unión permanente de dos fibras ópticas mediante una fusionadora que derrite y conecta sus extremos, así logrando una conexión continua con muy poca perdida de señal.
+
+- Perdida de inserción :
+Es la cantidad de potencia óptica que se pierde cuando se agrega un componente o empale.
+
+- Pigtail :
+Es un tramo corto de fibra óptica que tiene un conector en uno de sus extremos, el extremo libre se une por empale de fusión a la fibra del cable.
+
+- Tubo termoretráctil :
+Es una funda que se coloca sobre el empalme de fusión y al calentarla se contrae para proteger la fibra de golpes y humedad. 
 
 HERRAMIENTAS 
 1. Pelacables :
@@ -27,7 +41,12 @@ HERRAMIENTAS
 4. Manguito termocontráctil :
 - Protege la fibra ya unida. Se pone en la fibra antes de fusionar.
 5. Fusionadora :
-- Alinea los núcleos, los une con un arco eléctrico y estima la perdida en dB y trae un horno para termocontraer el manguito.    
+- Alinea los núcleos, los une con un arco eléctrico y estima la perdida en dB y trae un horno para termocontraer el manguito.
+
+MATERIALES 
+- Contenedor para residuos.
+- fibra optica para la practica.
+- Lentes de seguridad.
 
 PROCEDIMIENTO PASO A PASO 
 1. Insertar el protector al plástico.
@@ -45,6 +64,8 @@ introducir el manguito termocontráctil en uno de los extremos del hilo de fibra
 
 TIP : 
 No tocar la fibra con los dedos, ni que roce con alguna superficie. 
+
+
 
 4. Corte de precisión.
 - Se coloca la fibra limpia en la cortadora de precisión.
