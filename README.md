@@ -64,6 +64,9 @@ introducir el manguito termocontráctil en uno de los extremos del hilo de fibra
 
 TIP : 
 No tocar la fibra con los dedos, ni que roce con alguna superficie. 
+?[image alt]
+
+
 
 
 
