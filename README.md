@@ -78,6 +78,10 @@ No tocar la fibra con los dedos, ni que roce con alguna superficie.
 - Ajustar la medida.
 - Al realizar el corte. El objetivo es tener un ángulo perfecto de 90 grados, limpio y sin imperfecciones microscópicas.
 
+  
+![image alt](https://github.com/munozmaximiliano2008-droid/UNION-PELOS-DE-FIBRA-/blob/a61e065b7f60e3a395c8833503bab41c6e0429c3/WhatsApp%20Image%202026-11-15%20at%2010.02.04%20PM.jpeg)
+
+
 5. Colocación en la fusionadora.
 - Se abre la tapa de la fusionadora y se coloca la fibra cortada en las guias en V.
 - Asegurarse de que el extremo de la fibra quede muy cerca de los electrodos, pero sin  tocar el centro ni la otra fibra.
